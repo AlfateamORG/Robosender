@@ -1,0 +1,15 @@
+[414161:414161:0118/112503.175119:WARNING:chrome_main_delegate.cc(607)] This is Chrome version 109.0.5414.74 (not a warning)
+[414222:414222:0118/112503.583407:WARNING:sandbox_linux.cc(385)] InitializeSandbox() called with multiple threads in process gpu-process.
+[414161:414161:0118/112503.641623:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[414161:414161:0118/112504.015890:INFO:CONSOLE(1)] "%s [33m%s [0.006] [SW] got 0 windows from the start", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112504.341088:INFO:CONSOLE(1)] "%s [33m%s [0.328] [SW] window connected f1029f5c-ccf3-4132-a1f2-59ef9de71f5d windows before 0", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112504.342079:INFO:CONSOLE(1)] "%s [33m%s [0.328] [SW] windows ", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112504.342248:INFO:CONSOLE(1)] "%s [33m%s [0.328] [SW] sending message port for mtproto", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112504.534586:INFO:CONSOLE(1)] "got state, time: 183.79999999701977", source: https://web.telegram.org/k/main.b54fef5f67745c10b82c.bundle.js (1)
+[414161:414161:0118/112504.543474:INFO:CONSOLE(1)] "Will mount auth page: authStateSignQr 1674023104.543", source: https://web.telegram.org/k/main.b54fef5f67745c10b82c.bundle.js (1)
+[414161:414161:0118/112508.562962:INFO:CONSOLE(1)] "%s [33m%s [4.521] [SW] something has disconnected [object WindowClient]", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112508.572602:INFO:CONSOLE(1)] "%s [33m%s [4.521] [SW] window disconnected, left 0", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112508.572900:INFO:CONSOLE(1)] "%s [33m%s [4.521] [SW] no windows left", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112508.573255:INFO:CONSOLE(1)] "%s [33m%s [4.521] [SW] something has disconnected [object MessagePort]", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112508.573376:INFO:CONSOLE(1)] "%s [33m%s [4.521] [SW] it is not a window", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[414161:414161:0118/112508.640058:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

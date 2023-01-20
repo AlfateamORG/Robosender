@@ -1,0 +1,10 @@
+[431856:431856:0118/115730.000185:WARNING:chrome_main_delegate.cc(607)] This is Chrome version 109.0.5414.74 (not a warning)
+[431921:431921:0118/115730.395015:WARNING:sandbox_linux.cc(385)] InitializeSandbox() called with multiple threads in process gpu-process.
+[431856:431856:0118/115730.403436:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[431856:431856:0118/115730.825988:INFO:CONSOLE(1)] "%s [33m%s [0.011] [SW] got 0 windows from the start", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[431856:431856:0118/115731.094254:INFO:CONSOLE(1)] "%s [33m%s [0.283] [SW] window connected e9688a6a-8f5c-4528-b013-4566f3f9ccbc windows before 0", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[431856:431856:0118/115731.094664:INFO:CONSOLE(1)] "%s [33m%s [0.283] [SW] windows ", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[431856:431856:0118/115731.094816:INFO:CONSOLE(1)] "%s [33m%s [0.284] [SW] sending message port for mtproto", source: https://web.telegram.org/k/sw.33885da34018d6fb111e.chunk.js (1)
+[431924:431936:0118/115731.375842:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[431924:431936:0118/115731.376300:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[431856:431856:0118/115731.431912:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
